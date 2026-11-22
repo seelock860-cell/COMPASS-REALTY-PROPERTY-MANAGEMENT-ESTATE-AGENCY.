@@ -1,0 +1,6 @@
+{
+  "name": "Compass Realty",
+  "description": "Compass Realty Property Management & Estate Agency — premier residential, commercial, and corporate real estate services across Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
